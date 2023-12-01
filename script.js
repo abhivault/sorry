@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const apologyVideo = document.getElementById('apology-video');
 
     // Generate the sorry message 100,000 times
-    const sorryMessage = 'Sorry ';
+    const sorryMessage = 'Sorry Aaru ';
     let i = 0;
 
     const apologyInterval = setInterval(function () {
